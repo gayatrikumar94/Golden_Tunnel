@@ -1,0 +1,8 @@
+n_batches: 36
+true_positive: 9
+false_positive: 5
+false_negative: 1
+true_negative: 21
+precision: 0.6428571428571429
+recall: 0.9
+median_alarm_day_for_caught_batches: 2.75
